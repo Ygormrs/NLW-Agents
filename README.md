@@ -25,3 +25,6 @@ Este projeto é uma aplicação web desenvolvida com **HTML**, **CSS** e **JavaS
 ├── style.css
 ├── script.js
 └── README.md
+```
+
+![image](https://github.com/user-attachments/assets/2f5c9d3f-b55f-4d4f-9593-94797d575562)
