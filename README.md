@@ -1,46 +1,27 @@
-# HTML
+# 🌐 Criando um agente de IA (HTML, CSS, JavaScript)
 
--HyperText
-    -Texto puros, livros, revistas, jornais
-    -Links: acessar outros documentos
-    -Imagens: vídeos, áudios
--Markup
-    -Marcação
-    -Tags: <a> Link </a>
-    -Atributos: <a href="https://rocketseat.com.br">
-    -Atributos globais: id, class, ...
--Language
-    -Linguagem
-    -Sintaxe: maneira de escrever
+Este projeto é uma aplicação web desenvolvida com **HTML**, **CSS** e **JavaScript**, integrando a **API Gemini** (Google AI) para fornecer dicas e informações sobre jogos.
 
-# CSS
+## ✨ Funcionalidades
 
--Cascading
-    -Cascata
-    -Regra das escritas
--Style
-    -Estilo
--Sheet
-    -Folha
+- Interface web responsiva e moderna
+- Comunicação com a API Gemini
+- Respostas geradas por inteligência artificial em tempo real
+- Layout simples e fácil de navegar
+- Exemplo de prompt customizável
 
-# JS
+## 📦 Tecnologias Utilizadas
 
--Linguagem de programação
--Browsers
--Input -> Process -> Output
--Variáveis
--Function
-    -Agrupamento e reuso de código
-    -Sequencia lógica
-    -Saída
--Gemini(IA): Esperar uma resposta
--Mexer no meu navegador
--Estrutura de dados
--Estrutura de decisão
--Algoritmo: sequencia de passos lógica, de maneira ordenada, a fim de chegar a alguma conclusão.
--Decomposição
--Reconhecimento de padrão
--Tipos de dados
-    -Number (numeros)
-    -String (texto)
-    -Boolean (V ou F)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Google Gemini API
+
+## 📁 Estrutura do Projeto
+
+```plaintext
+📦 raiz-do-projeto
+├── index.html
+├── style.css
+├── script.js
+└── README.md
